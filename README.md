@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Ocyn/Libft?color=dark-green) ![Issues](https://img.shields.io/github/issues/Ocyn/Libft) ![License](https://img.shields.io/github/license/Ocyn/Libft) 
+![Contributors](https://img.shields.io/github/contributors/Ocyn/ft_printf?color=dark-green) ![Issues](https://img.shields.io/github/issues/Ocyn/ft_printf)
 
 ## Table Of Contents
 
