@@ -82,7 +82,7 @@ Make re
 Include the Header File (ft_printf.h):
 Include the ft_printf.h header file at the beginning of your program or source file to access the function prototypes.
 ```c
-#include "libft.h"
+#include "ft_printf.h"
 ```
 
 Compile the Library:
@@ -97,10 +97,10 @@ When compiling your program, link with the ft_printf library by specifying the p
 ```bash
 gcc -o my_program my_program.c -L. -lft_printf
 ```
-Here, -L. specifies that the compiler should look for the library in the current directory, and -lft indicates linking with the libft.a library.
+Here, -L. specifies that the compiler should look for the library in the current directory, and -lft indicates linking with the ft_printf.a library.
 
 Use ft_printf Functions:
-You can now use any function from the LIBFT library in your program. For example, if you want to use the ft_strlen function to calculate the length of a string, call it as follows:
+You can now use any function from the ft_printf library in your program.
 
 ```c
 #include "ft_printf.h"
